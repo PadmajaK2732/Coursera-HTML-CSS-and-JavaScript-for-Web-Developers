@@ -2,4 +2,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-[Solution](file:///C:/Users/91911/Desktop/Week-2%20Solution/index.html)
+[Solution](https://padmajak2732.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/)
